@@ -16,7 +16,7 @@
   - cd PortSpy/
   - python3 PortSpy.py
 ***
-  * Installer package for **WindowsOs** : [PortSpy_Setup](https://github.com/Oseid/PortSpy/PortSpy_Setup.zip)
+  * Installer package for **WindowsOs** : [PortSpy_Setup](https://github.com/Oseid/PortSpy/raw/master/PortSpy_Setup.zip)
     - **You Don't Need Python For Run This Tool on Windows :)** 
 ***
 
