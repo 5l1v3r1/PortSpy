@@ -1,7 +1,7 @@
 # PortSpy
 
 ***
-- PortSpy: Multi Threaded Port Scan Tool With Simple Qt5 GUI
+- PortSpy: **Multi Threaded Port Scan Tool With Simple Qt5 GUI**
 
 ***
 
@@ -17,7 +17,7 @@
   - python3 PortSpy.py
 ***
   * Installer package for **WindowsOs** : [PortSpy_Setup](https://github.com/Oseid/PortSpy/PortSpy_Setup.exe)
-    - **You Don't Need Python For Run This Tool :)** 
+    - **You Don't Need Python For Run This Tool on Windows :)** 
 ***
 
 # ScreenShot:
